@@ -31,13 +31,11 @@ body * + *{
 body{
     padding: 2em;
     background-color: var(--dark-color);  
-    height: 100vh;
 }
 
 
 @media (max-width: 575px) {
     body{
         padding: 0;
-        height: 100vh;
     }
 }
